@@ -1,4 +1,4 @@
-# Java OOPS Practice 🚀
+# Java OOPS Practice 
 
 This repository contains my daily practice of Object-Oriented Programming concepts in Java.
 
@@ -6,21 +6,21 @@ I am learning one concept per day and pushing my progress consistently to GitHub
 
 ---
 
-## 📚 Concepts Covered
+##  Concepts Covered
 
-### 1️⃣ Class and Object
-- Created a Student class
-- Created multiple objects
-- Understood reference variables
-- Basic idea of stack and heap memory
+### 1). Class and Object
+* Created a Student class
+* Created multiple objects
+* Understood reference variables
+* Basic idea of stack and heap memory
 
-### 2️⃣ Final Keyword
-- Used final variable
-- Understood immutability
+### 2). Final Keyword
+* Used final variable
+* Understood immutability
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 java-oops-basics
@@ -32,7 +32,7 @@ java-oops-basics
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Compile:
 ```
@@ -46,12 +46,12 @@ java Main
 
 ---
 
-## 🎯 Goal
+##  Goal
 
 To build strong Java fundamentals and prepare for internships.
 
 ---
 
-## 👤 Author
+## Author
 
-Mohamed Fahim S
+Mohamad Fahim

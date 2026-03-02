@@ -1,57 +1,57 @@
-# Java OOPS Practice 
+# Java OOPS Practice
 
-This repository contains my daily practice of Object-Oriented Programming concepts in Java.
+This repository contains my practice programs while learning Object-Oriented Programming (OOPS) in Java.
 
-I am learning one concept per day and pushing my progress consistently to GitHub.
-
----
-
-##  Concepts Covered
-
-### 1). Class and Object
-* Created a Student class
-* Created multiple objects
-* Understood reference variables
-* Basic idea of stack and heap memory
-
-### 2). Final Keyword
-* Used final variable
-* Understood immutability
+I am currently in my 2nd year and building my fundamentals step by step.
 
 ---
 
-##  Project Structure
+## Concepts Covered
 
-```
-java-oops-basics
-│
-├── Main.java
-├── Final.java
-├── README.md
-```
+### 1) Class and Object  (Day 1)
+- Created a Student class
+- Created multiple objects
+- Understood how objects work
+
+### 2) Final Keyword   (Day 2)
+- Used final with primitive variables
+- Learned that final variables cannot be reassigned
+
+### 3) Pass By Value  (Day 3)
+- Understood how Java passes arguments
+- Observed how primitive values are copied in methods
 
 ---
 
-##  How to Run
+## How to Run
 
 Compile:
 ```
-javac Main.java
+javac FileName.java
 ```
 
 Run:
 ```
-java Main
+java FileName
+```
+
+Example:
+```
+javac passbyvalue.java
+java passbyvalue
 ```
 
 ---
 
-##  Goal
+## Purpose
 
-To build strong Java fundamentals and prepare for internships.
+- Improve Java fundamentals  
+- Practice OOPS concepts  
+- Maintain consistency in coding  
 
 ---
 
 ## Author
 
-Mohamad Fahim
+Mohamad Fahim  
+2nd Year Computer Science Student

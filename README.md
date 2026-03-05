@@ -1,4 +1,4 @@
-# Java OOPS Practice
+# Java Basics and OOPS Practice
 
 This repository contains my practice programs while learning Object-Oriented Programming (OOPS) in Java.
 
@@ -21,6 +21,10 @@ I am currently in my 2nd year and building my fundamentals step by step.
 - Understood how Java passes arguments
 - Observed how primitive values are copied in methods
 
+### 1) Packages in java  (Day 4)
+- Created a two packages
+- Named as basics and oops
+- know to import the packages
 ---
 
 ## How to Run
@@ -53,5 +57,5 @@ java passbyvalue
 
 ## Author
 
-Mohamad Fahim  
-2nd Year Computer Science Student
+Mohamad Fahim  S
+2nd Year Electrical And Electronic Engineering
